@@ -1,0 +1,6 @@
+MaxScore -> 50
+Live -> 3 + every time make 10 points live += 1
+fire -> 5 fire drops (everything randomized) 
+rain -> 2 rain drops (everything randomized)
+background -> every time 10 score made background change (if score == 50 game stops)
+game_active -> live = 0 game stops or score = 50 game stops
